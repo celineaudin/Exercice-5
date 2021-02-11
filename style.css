@@ -1,0 +1,52 @@
+body {
+  margin-bottom:20%;
+}
+div {
+  float: left;
+height:50px;
+}
+
+.green {
+  background-color: darkolivegreen;
+width:80%;
+}
+
+.blue {
+  background-color: deepskyblue;
+width:20%;
+}
+
+.red {
+  background-color: tomato;
+  width:40%;
+  height:100px;
+}
+
+.orange{
+  background-color: rgb(224, 131, 43);
+width:30%;
+}
+
+.grey{
+  background-color: rgb(172, 161, 151);
+width:30%;
+}
+
+.yellow {
+  background-color: goldenrod;
+  width:20%;
+}
+.turquoise{
+  background-color: rgb(30, 128, 115);
+width:20%;
+}
+
+.brick {
+  background-color: brown;
+  width:20%;
+}
+
+.darkblue {
+  background-color: midnightblue;
+  width:100%;
+}
